@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/EITHON1",
+    "website": "https://t.me/H_B_4",
     "repository": "https://github.com/pqnzbmmwQ92/ll",
-    "success_url": "https://t.me/EITHON1",
+    "success_url": "https://t.me/H_B_4",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,12 +47,12 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "eithonsupport"
+            "value": "iso6q"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "EITHON1"
+            "value": "H_B_4"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
